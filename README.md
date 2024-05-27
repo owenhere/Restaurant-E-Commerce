@@ -22,18 +22,6 @@ see output
 
 Most probably some enviroment variable also to be set...
 
-## Upload Image
-   Only admin upload the image, That option display only if admin login with email id only or Google Account.
-
-contact me Linkedin : https://www.linkedin.com/in/itsamitprajapati/ 
-
-Thank you !!!
-
-Follow me for more : 
-
-Linkedin : https://www.linkedin.com/in/itsamitprajapati/
-Twitter : https://twitter.com/IsAmitprajapati
-Instagram : https://www.instagram.com/isamitprajapati/
 
 Regards,
 Amit Prajapati
